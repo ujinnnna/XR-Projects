@@ -192,17 +192,17 @@ Meta Quest 3 환경에서 젠가 블록을 조작하는 VR 게임
   <img src="./gif/MiniShootingGame.gif" width="320" alt="MR 미니 슈팅"/>
 </div>
 
-<div align="center">
+<div>
   <br/>
   <b>MR 줄자</b> · 현실 공간 거리 측정
   <br/>
   <b>MR Effect Mesh</b> · 스캔된 공간 메시 시각화
-  <br/><br/>
+  <br/>
   <b>컨트롤러 슈팅</b> · 입력에 따라 투사체/이펙트 분기
   <br/>
-  <b>VR 패스스루 창</b> · VR 공간 안에 현실이 보이는 창 연출
-  <br/><br/>
-  <b>MR 창(Stencil Mask)</b> · 현실/가상 경계를 창 형태로 구성
+  <b>VR 패스스루</b> · VR 공간 안에 현실이 보이는 윈도우
   <br/>
-  <b>MR 미니 슈팅</b> · 적 생성 + 슈팅 입력 결합 미니 게임
+  <b>MR Stencil Mask</b> · 현실/가상 경계 윈도우
+  <br/>
+  <b>MR 미니 슈팅</b> · 슈팅 미니 게임
 </div>
